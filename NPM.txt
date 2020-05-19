@@ -1,0 +1,2 @@
+npm install discord.js ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save
+npm install discordjs/discord.js discordjs/Commando ffmpeg-static node-opus simple-youtube-api ytdl-core
